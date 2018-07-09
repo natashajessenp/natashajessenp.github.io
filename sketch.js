@@ -9,7 +9,7 @@ function draw() {
   ellipse(mouseX, mouseY, 40, 40);
 
   fill ("blue");
-  textsize(32);
+  textSize(32);
   text("happy copenhagen", 50, 100);
 
 }
